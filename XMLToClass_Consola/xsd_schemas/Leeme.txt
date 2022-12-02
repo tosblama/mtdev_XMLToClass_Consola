@@ -1,0 +1,1 @@
+﻿"C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\xsd.exe" "C:\MTDEV\VisualStudio\XMLToClass_Consola\XMLToClass_Consola\xsd_schemas\CustomersOrders.xsd" /c /outputdir:"C:\MTDEV\VisualStudio\XMLToClass_Consola\XMLToClass_Consola\Clases"
